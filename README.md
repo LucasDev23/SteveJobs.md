@@ -53,7 +53,6 @@ fonte: https://www.ebiografia.com
 </br>
 </br>
 </br>
-</br>
 
 ##
 
