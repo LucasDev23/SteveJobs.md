@@ -23,6 +23,9 @@
 
 ## <strong>🧩 Criação da Apple </strong>
 
+<img src="https://images.gr-assets.com/hostedimages/1595086078ra/29836955.gif" width="350px"></br>
+fonte: https://www.ebiografia.com
+
 #### <ul><li>Em 1976, Jobs e Wozniak instalaram uma “fabrica” de computadores, na garagem da casa da família de Jobs na Califórnia. Em 1976 é lançado o computador "Apple I", o primeiro computador pessoal, vendido já montado, que era apenas uma placa mãe coberta com alguns chips e instalada em uma caixa de madeira.</ul></li>
 
 #### <ul><li>Em 1977 é lançado o computador "Apple II", que apresentava um mouse e um disco rígido interno. Com o passar dos anos, as criações de Jobs e Wozniak revolucionaram a indústria de computadores, tornando as máquinas menores e mais baratas.</ul></li>
@@ -48,6 +51,12 @@
 #### <ul><li>Criou o “Macintosh”, o “iPod”, o “iPhone” e o “iPad”. A Apple revolucionou a indústria de computadores pessoais, os filmes de animação, o mundo da música e dos telefones celulares</ul></li>
 
 </br>
-<br>
+</br>
+</br>
+</br>
 
-## <em>" Você pode encarar um erro como uma besteira a ser esquecida ou como um resultado que aponta uma nova direção. " - Steve Jobs .</em>
+##
+
+<h2 align=center><img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="350px"><h2>
+
+### <em>" Você pode encarar um erro como uma besteira a ser esquecida ou como um resultado que aponta uma nova direção. " - Steve Jobs .</em>
